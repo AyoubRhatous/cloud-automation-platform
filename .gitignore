@@ -2,7 +2,7 @@
 *.pem
 *.key
 *.pub
-eckey
+terraform/eckey
 
 # 🔐 Terraform State Files
 *.tfstate
