@@ -15,7 +15,7 @@ crash.log
 *.tfvars.json
 
 # 🔐 Local Terraform directories
-#.terraform/
+.terraform/
 .terraform.lock.hcl
 
 # 🔐 Override files
